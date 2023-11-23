@@ -1,8 +1,13 @@
+import java.util.InputMismatchException;
+import java.util.Scanner;
+
 /**
  *
  * @author Ricardo López Cruz.
  */
-public static void main(String arg[]) {
+
+public class Ejercicio_4 {
+	public static void main(String arg[]) {
 
 		Scanner dato = new Scanner(System.in);
 		long numeroUsuario, numero;
@@ -86,3 +91,4 @@ public static void main(String arg[]) {
 
 		return numeroBinario;
 	}
+}
