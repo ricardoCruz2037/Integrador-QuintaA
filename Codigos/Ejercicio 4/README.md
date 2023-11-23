@@ -1,12 +1,12 @@
 EJERCICIO NUMERO 4.
 
-Autor: Ricardo López Cruz.
-Numero de control: 230110088
-Correo institucional: 230110088@itsoeh.edu.mx
-Pagina Personal de contacto: https://ricardocruz2037.github.io/.github.com/
-Cuenta De github: https://github.com/ricardoCruz2037
-Correo Personal: ricardolopezcruzcontacto2037@gmail.com
-Fecha de Subida: 22/11/2023
+Autor: Ricardo López Cruz.	
+Numero de control: 230110088	
+Correo institucional: 230110088@itsoeh.edu.mx	
+Pagina Personal de contacto: https://ricardocruz2037.github.io/.github.com/	
+Cuenta De github: https://github.com/ricardoCruz2037	
+Correo Personal: ricardolopezcruzcontacto2037@gmail.com	
+Fecha de Subida: 22/11/2023	
 
 Dado un número decimal entero, positivo o negativo, regresar su equivalente en binario.
 
