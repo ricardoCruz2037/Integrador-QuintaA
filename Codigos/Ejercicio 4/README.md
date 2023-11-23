@@ -1,12 +1,19 @@
 EJERCICIO NUMERO 4.
 
-Autor: Ricardo López Cruz.	
+Autor: Ricardo López Cruz.
+
 Numero de control: 230110088	
+
 Correo institucional: 230110088@itsoeh.edu.mx	
+
 Pagina Personal de contacto: https://ricardocruz2037.github.io/.github.com/	
+
 Cuenta De github: https://github.com/ricardoCruz2037	
+
 Correo Personal: ricardolopezcruzcontacto2037@gmail.com	
+
 Fecha de Subida: 22/11/2023	
+
 
 Dado un número decimal entero, positivo o negativo, regresar su equivalente en binario.
 
@@ -34,6 +41,6 @@ Guardaremos la posición donde se encuentre el primer número 1, luego, a este s
                                      Valor de la posicion = 1 - Valor de la posicion.
 
                      Si el Valor de la posicion es 0: 1 - 0 = 1. Por lo que tenemos ahora como valor 1.
-		             Si el Valor de la posicion es 1: 1 - 1 = 0. Por lo que tenemos ahora Como valor 
+		     Si el Valor de la posicion es 1: 1 - 1 = 0. Por lo que tenemos ahora como valor 0 
                 
 De esta forma tendremos invertido nuestros bits y habremos realizado el complemento A2 de nuestro número negativo, cumpliendo así con la problemática principal del problema y cumpliendo con el objetivo principal de la conversión correcta del número decimal a binario.
