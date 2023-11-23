@@ -5,7 +5,7 @@ import java.util.Scanner;
  *
  * @author lldan
  */
-public class Problema_3 {
+public class Ejercicio_3 {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             // Solicitar al usuario las coordenadas del centro de la circunferencia
