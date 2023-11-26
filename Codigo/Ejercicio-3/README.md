@@ -1,3 +1,12 @@
+EJERCICIO NUMERO 4.
+
+Autor: Daniel Aldana Lopez
+Numero de control: 230110150
+Correo institucional: 230110150@itsoeh.edu.mx
+Pagina Personal de contacto: [https://ricardocruz2037.github.io/.github.com/](https://dani-ald.github.io)
+Cuenta De github: Dani-Ald/dani-ald.github.com
+Correo Personal: ll.daniel.l.aldana.ll@gmail.com
+
 Dada una circunferencia con centro en el punto C con coordenadas (x1, y1) y radio r, evaluar si un 
 punto T con coordenadas (x2, y2) está dentro del área de la circunferencia.
 
@@ -5,7 +14,7 @@ La fórmula de la distancia entre dos puntos en un plano se basa en el teorema d
 Supongamos que tenemos dos puntos P(x1,y1) y Q(x2,y2) en un sistema de coordenadas 
 cartesianas. La distancia d entre estos dos puntos se puede encontrar usando el teorema de 
 Pitágoras en un triángulo rectángulo formado por los dos puntos y el punto en el origen con
- coordenadas (0,0).
+coordenadas (0,0).
 
  El teorema de Pitágoras establece que en un triángulo rectángulo, el cuadrado de la hipotenusa (c) 
  es igual a la suma de los cuadrados de los catetos (a y b). En el contexto de la distancia entre dos 
